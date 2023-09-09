@@ -50,3 +50,4 @@ const total = good + bad + neutral;
     </>
   );
 }
+useState(()=>{})
